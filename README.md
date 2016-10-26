@@ -4,9 +4,9 @@ The mechanics of the game will be similar to an actual ping-pong game. The playe
 
 ### Controls
 **Player 1**
-Left Arrow Key - moves your racquet to the left
-Right Arrow Key - moves your racquet to the right
+- Left Arrow Key - moves your racquet to the left
+- Right Arrow Key - moves your racquet to the right
 
 **Player 2**
-A - moves your racquet to the left
-D - moves your racquet to the right
+- A - moves your racquet to the left
+- D - moves your racquet to the right
